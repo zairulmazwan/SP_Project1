@@ -1,3 +1,3 @@
 <?php
 
-echo "this is index";
+echo "this is index for Project 1";
